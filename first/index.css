@@ -1,5 +1,46 @@
+body {
+    background-color: white;
+}
+
 header {
-    background-color: gray;
+    background-color:#444444;
     height: 15vh;
     width: 100vw;
+}
+
+.left-box {
+    height: 100vh;
+    width: 15vw;
+    background-color: lightgray;
+    float: left;
+    
+}
+
+/* .middle-box {
+    background-position: bottom center;
+    background-color: gray;
+    height: 15vh;
+    width: 80vw;
+
+} */
+
+.right-box {
+    height: 100vh;
+    width: 15vw;
+    background-color: lightgray;
+    float: right;
+     
+}
+
+div {
+    display:inline-block;
+
+}
+
+footer{ 
+    clear:both;
+    background-color: red;
+    width: 15vw;
+    height: 80vh;
+
 }
