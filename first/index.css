@@ -1,5 +1,5 @@
 body {
-    background-color: lightgray;
+    background-color: #D8D8D8;
 
 }
 
@@ -18,7 +18,7 @@ header {
 }
 
 footer { 
-    background-color: #444444;
+    background-color: #222222;
     width: 70vw;
     height: 10vh;
     margin: 0 auto;
