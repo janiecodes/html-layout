@@ -1,3 +1,67 @@
 body {
     background-color: white;
 }
+
+.box-one {
+    border: 5px solid black;
+    margin: 20px;
+    width: 95vw;
+    padding: 10px;
+
+}
+
+.purple-box {
+    height: 105px;
+    width: 30px;
+    background-color: #8a2be3;
+    margin-right: 5%;
+    display: inline-block;
+}
+
+.green-box {
+    height: 140px;
+    width: 300px;
+    background-color: #218c22;
+    display: inline-block;
+    margin-right: 5%;
+
+}
+
+.circle {
+    background-color: #87cdea;
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+
+.box-two {
+    border: 5px dotted black;
+    margin: 20px;
+    height: 250px;
+    width: 95vw;
+    padding: 50px;
+}
+
+.tan-box {
+    height: 150px;
+    width: 80vw;
+    background-color: #fffacc;
+    box-shadow: 5px 5px 5px #000000;
+
+    
+}
+.box-three {
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid grey;
+    height: 205px;
+    width: 350px;
+    padding: 180px;
+
+}
+#p {
+    color: #020176;
+    text-align: center;
+}
