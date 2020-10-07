@@ -4,49 +4,61 @@ body {
 
 header {
     background-color: lightgrey;
-    height: 10vh;
+    height: 11vh;
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
 }
 
-box {
+.box {
     height: 6vh;
     width: 6vw;
     background-color: lightskyblue;
 }
 
-big-row { 
-    height: 30vh;
+.big-row { 
+    height: 25vh;
     width: 100%;
-    padding: 20%;
     box-sizing: border-box;
+    font-size: 20px;
+    padding: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
     
 }
 
-big-row-text {
+/* .big-row-text {
+    font-size: 100px;
+    padding: 180px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 
-    }
+    } */
 
 
-blue { 
+.blue { 
     background-color: lightskyblue;
-    height: 15vh;
+    height: 16vh;
+    box-sizing: border-box;
 }
 
-aqua {
+.aqua {
     background-color: aqua;
-    height: 15vh;
+    height: 16vh;
+    box-sizing: border-box;
 
 }
 
-green {
+.green {
     background-color:lightgreen;
-    height: 15vh;
+    height: 16vh;
+    box-sizing: border-box;
 }
 
-yellow {
+.yellow {
     background-color: lightyellow;
-    height: 15vh;
+    height: 16vh;
+    box-sizing: border-box;
 
 }
