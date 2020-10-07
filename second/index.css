@@ -6,25 +6,25 @@ body {
     border: 5px solid black;
     margin: 20px;
     padding: 10px;
-    box-sizing: border-box;
     width: 100%;
+    box-sizing: border-box;
 
 }
 
 .purple-box {
+    background-color: #8a2be3;
     height: 175px;
     width: 55px;
-    background-color: #8a2be3;
     margin-right: 5%;
     display: inline-block;
 }
 
 .green-box {
+    background-color: #218c22;
     height: 240px;
     width: 380px;
-    background-color: #218c22;
-    display: inline-block;
     margin-right: 5%;
+    display: inline-block;
 
 }
 
@@ -46,11 +46,11 @@ body {
 }
 
 .tan-box {
+    background-color: #fffacc;
     height: 250px;
     width: 95%;
     margin: 0 auto;
     border: hidden;
-    background-color: #fffacc;
     box-shadow: 5px 5px 5px #000000;
 
 }
