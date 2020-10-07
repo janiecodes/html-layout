@@ -1,0 +1,52 @@
+body {
+    background: white;
+}
+
+header {
+    background-color: lightgrey;
+    height: 10vh;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+box {
+    height: 6vh;
+    width: 6vw;
+    background-color: lightskyblue;
+}
+
+big-row { 
+    height: 30vh;
+    width: 100%;
+    padding: 20%;
+    box-sizing: border-box;
+    
+}
+
+big-row-text {
+
+    }
+
+
+blue { 
+    background-color: lightskyblue;
+    height: 15vh;
+}
+
+aqua {
+    background-color: aqua;
+    height: 15vh;
+
+}
+
+green {
+    background-color:lightgreen;
+    height: 15vh;
+}
+
+yellow {
+    background-color: lightyellow;
+    height: 15vh;
+
+}
